@@ -1,4 +1,4 @@
-﻿using FluidHTN.Factory;
+using FluidHTN.Factory;
 
 namespace FluidHTN
 {

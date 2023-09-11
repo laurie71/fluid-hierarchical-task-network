@@ -1,4 +1,4 @@
-﻿using FluidHTN.Compounds;
+using FluidHTN.Compounds;
 
 namespace FluidHTN
 {

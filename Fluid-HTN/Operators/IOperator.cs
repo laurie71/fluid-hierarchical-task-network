@@ -1,4 +1,4 @@
-﻿namespace FluidHTN.Operators
+namespace FluidHTN.Operators
 {
     public interface IOperator
     {

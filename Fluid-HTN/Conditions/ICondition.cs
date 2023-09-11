@@ -1,4 +1,4 @@
-﻿namespace FluidHTN.Conditions
+namespace FluidHTN.Conditions
 {
     public interface ICondition
     {

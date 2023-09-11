@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using FluidHTN.Conditions;
 
 namespace FluidHTN.Debug

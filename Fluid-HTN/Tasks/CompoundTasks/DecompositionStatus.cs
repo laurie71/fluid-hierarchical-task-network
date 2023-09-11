@@ -1,4 +1,4 @@
-﻿namespace FluidHTN.Compounds
+namespace FluidHTN.Compounds
 {
     public enum DecompositionStatus
     {

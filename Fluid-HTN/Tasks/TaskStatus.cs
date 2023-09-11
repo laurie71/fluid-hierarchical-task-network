@@ -1,4 +1,4 @@
-﻿namespace FluidHTN
+namespace FluidHTN
 {
     public enum TaskStatus
     {
